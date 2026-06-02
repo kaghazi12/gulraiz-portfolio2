@@ -40,6 +40,16 @@ const projects = [
     demoUrl: "https://de-vote-theta.vercel.app/",
     githubUrl: "https://github.com/kaghazi12/DeVote",
   },
+    {
+    id: 2,
+    title: "NUST Campus Pulse",
+    description:
+      "A real-time IoT dashboard that uses cloud-hosted TimescaleDB hypertables to store, analyze, and stream live environmental metrics across university buildings.",
+    image: "/projects/project6l.png",
+    tags: ["React", "PostgreSQL", "TimescaleDB"],
+    demoUrl: "https://nust-campus-pulse.vercel.app/",
+    githubUrl: "https://github.com/kaghazi12/nust-campus-pulse",
+  },
 ];
 
 export const ProjectsSection = () => {
