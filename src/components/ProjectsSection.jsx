@@ -32,13 +32,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "DeVote",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+      "A decentralized voting platform built on blockchain technology.",
+    image: "/projects/project5l.png",
+    tags: ["React", "Ethers.js", "Solidity"],
+    demoUrl: "https://de-vote-theta.vercel.app/",
+    githubUrl: "https://github.com/kaghazi12/DeVote",
   },
 ];
 
